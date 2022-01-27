@@ -197,3 +197,7 @@ background-color: black;}
     justify-content: space-evenly;
     row-gap: 1em;
  }
+
+ .nametag {font-family: 'Dongle', sans-serif;
+
+ }
